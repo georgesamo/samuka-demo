@@ -1,2 +1,7 @@
-# samuka-demo
-My first repository for Git
+# Description
+
+My excercise files on Ruby
+
+## Author
+
+Giorgi Samukashvili
